@@ -1,2 +1,3 @@
 # WriteReadMemory
-Simple memory editor in C++
+
+Just a simple app to read & write memory in c++
